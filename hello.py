@@ -1,4 +1,4 @@
-def hello():
-    print('hello world')
+def hello2():
+    print('hello world2')
 
-hello()
+hello2()
